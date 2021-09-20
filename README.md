@@ -1,3 +1,4 @@
+# Курсовые по data science / skillbox
 coursework_1_Pandas_-_Matplotlib
 
 coursework_2_analytics
